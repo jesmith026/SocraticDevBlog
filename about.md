@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+> I love coding, reading, teaching, and most importantly hanging out with my wife and 2 kids any chance I get.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is James Smith and I am a full-time software engineer as well as the creator of Socratic Development. As an avid consumer of podcasts, blogs, videos, books, and pretty much anything else which can improve me as a person and a developer, I decided to go out and grab my own little piece of the internet. My hope is that the content here will provide some insight and inspiration for others.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jesmith026@outlook.com](mailto:jesmith026@outlook.com)
