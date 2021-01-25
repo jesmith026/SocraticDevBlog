@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Console.WriteLine("Hello World!");
+tags: intro
 ---
 
 So far, everyone I've spoken to about my new blog has asked the same question...
