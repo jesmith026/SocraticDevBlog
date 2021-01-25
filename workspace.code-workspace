@@ -16,10 +16,15 @@
 			"activityBarBadge.foreground": "#15202b",
 			"statusBar.background": "#1857a4",
 			"statusBar.foreground": "#e7e7e7",
-			"statusBarItem.hoverBackground": "#1f6fd0"
+			"statusBarItem.hoverBackground": "#1f6fd0",
+			"editorGroup.border": "#1f6fd0",
+			"panel.border": "#1f6fd0",
+			"sideBar.border": "#1f6fd0",
+			"tab.activeBorder": "#1f6fd0"
 		},
 		"peacock.color": "#1857a4",
 		"cSpell.words": [
+			"API's",
 			"liskov"
 		]
 	},
