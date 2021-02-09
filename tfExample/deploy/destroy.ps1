@@ -1,0 +1,1 @@
+& terraform.exe destroy -auto-approve;
